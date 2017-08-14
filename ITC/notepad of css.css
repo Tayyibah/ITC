@@ -1,0 +1,60 @@
+.mainDiv
+{
+
+	height:100%;
+	width:100%;
+}
+
+
+.banner
+{
+
+
+		width;8000px;
+		height:150px;
+		float:left;
+		background:black;
+
+}
+
+
+
+
+.header
+{
+		width;800px;
+		height:500px;
+		border: 2px solid black;
+		margin:auto;
+		background:yellow;
+}
+
+.contant
+{
+
+		width;80px;
+		height:50px;
+		border: 2px solid black;
+		margin:auto;
+		background:blue;
+}
+
+
+
+
+
+
+
+	body
+{
+background:url(bg.jpg);
+}
+
+
+
+	p
+{
+txt-align:center;
+font-weight:bold;
+}
+
